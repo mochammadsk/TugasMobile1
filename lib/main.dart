@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:curriculum_vitae/home.dart';
+import 'package:curriculum_vitae/grade.dart';
 
 void main() {
   runApp(const MainApp());
